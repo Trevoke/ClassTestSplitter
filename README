@@ -1,0 +1,5 @@
+This is a simple plugin to create a split window between a new class and the associated test file.
+Use it like this:
+  :ClassTestSplit ClassName
+
+
