@@ -3,3 +3,5 @@ Use it like this:
   :ClassTestSplit ClassName
 
 All credit for this idea and original effort goes to rustedgrail.
+
+Note: if you want to switch the position of the class and the test file, check out :h splitright
